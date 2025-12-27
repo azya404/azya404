@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Haasya 👋
 
-<!--
-**azya404/azya404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**3rd Year Computer Science @ University of Alberta**  
+🔍 Seeking **Summer 2025 SWE/PM Internships**
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧩 **4x National Speedcubing Record Holder** (yes, really)
+- 🌍 Multilingual: English, Gujarati, Kiswahili, Hindi, Mandarin
+- 💼 Previously: Web Dev Intern @ UMedia, PM Intern @ Regulus Web
+- 📚 Passionate about building tools that solve real problems
+
+## What I'm Building
+
+🔧 **[Py-ECM](https://github.com/azya404/Py-ECM)** – Enterprise-grade Python CLI for content lifecycle management  
+🌐 **SyncLess Translate** – Offline-first progressive web app with ML translation (in progress)
+
+## Tech Stack
+
+**Languages:** Python, JavaScript, HTML5, SQL  
+**Frameworks/Tools:** Flask, TensorFlow, Pandas, Git, MySQL  
+**Currently Learning:** FastAPI, Next.js, SQLAlchemy
+
+## Let's Connect
+
+📧 Email: haasya@ualberta.ca  
+💼 LinkedIn: [linkedin.com/in/haasya-shah](https://linkedin.com/in/haasya-shah)  
+📂 Check out my pinned projects below ⬇️
