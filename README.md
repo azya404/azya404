@@ -1,28 +1,28 @@
-# Hi, I'm Haasya 👋
+<h1 align="center">💻 Hey there! I'm <strong>Haasya Shah</strong> 👋</h1>
 
-**3rd Year Computer Science @ University of Alberta**  
-🔍 Seeking **Summer 2025 SWE/PM Internships**
+<p align="center">
+  🎓 3rd Year Computing Science Student @ <strong>University of Alberta</strong> <br>
+  💼 Previously: Web Dev Intern @ UMedia | PM Intern @ Regulus Web
+  🔍 Seeking <strong>Summer 2025 SWE/ML/Game Dev Internships</strong> <br>
+  🎮 Specializing in <strong>AI × Game Development</strong> – building intelligent systems that solve real problems
+</p>
 
-## About Me
+--
 
-- 🧩 **4x National Speedcubing Record Holder** (yes, really)
-- 🌍 Multilingual: English, Gujarati, Kiswahili, Hindi, Mandarin
-- 💼 Previously: Web Dev Intern @ UMedia, PM Intern @ Regulus Web
-- 📚 Passionate about building tools that solve real problems
+## 🎯 What Makes Me Different
 
-## What I'm Building
+I'm at the **intersection of AI and Game Development** – a unique combination that lets me build everything from intelligent NPCs to ML-powered applications.
+**Currently pursuing:** 🎓 Game Development Certificate | 🤖 AI Everywhere Certificate | 📊 Applied Data Science Certificate
+🧩 Fun Fact: **I'm a [4x National Speedcubing Record Holder](https://www.worldcubeassociation.org/persons/2018SHAH17)** (yes, really)
+📚 In my free time, I love to tutor math, computer science and the sciences 
+
+## What I'm Currently Building
 
 🔧 **[Py-ECM](https://github.com/azya404/Py-ECM)** – Enterprise-grade Python CLI for content lifecycle management  
-🌐 **SyncLess Translate** – Offline-first progressive web app with ML translation (in progress)
-
-## Tech Stack
-
-**Languages:** Python, JavaScript, HTML5, SQL  
-**Frameworks/Tools:** Flask, TensorFlow, Pandas, Git, MySQL  
-**Currently Learning:** FastAPI, Next.js, SQLAlchemy
+🌐 **SyncLess Translate** – Offline-first progressive web app with ML translation *(in progress)*
 
 ## Let's Connect
 
-📧 Email: haasya@ualberta.ca  
+📧 Email: [haasya@ualberta.ca](mailto:haasya@ualberta.ca)
 💼 LinkedIn: [linkedin.com/in/haasya-shah](https://linkedin.com/in/haasya-shah)  
 📂 Check out my pinned projects below ⬇️
