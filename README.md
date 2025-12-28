@@ -11,7 +11,7 @@
 
 I'm at the **intersection of AI and Game Development** – a unique combination that lets me build everything from intelligent NPCs to ML-powered applications.
 
-**Currently pursuing:** 🎓 Game Development Certificate | 🤖 AI Everywhere Certificate | 📊 Applied Data Science Certificate
+**Currently pursuing:** 🎓 [Game Development Certificate](https://calendar.ualberta.ca/preview_program.php?catoid=56&poid=83395) | 🤖 [AI Everywhere Certificate](https://calendar.ualberta.ca/preview_program.php?catoid=56&poid=84365) | 📊 [Applied Data Science Certificate](https://www.ualberta.ca/en/admissions-programs/embedded-undergraduate-certificates/applied-data-science.html)
 
 🧩 Fun Fact: **I'm a [4x National Speedcubing Record Holder](https://www.worldcubeassociation.org/persons/2018SHAH17)** (yes, really)  
 📚 In my free time, I love to tutor math, computer science and the sciences
