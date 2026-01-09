@@ -3,7 +3,7 @@
 <p align="center">
   🎓 3rd Year Computing Science Student @ <strong>University of Alberta</strong> <br>
   💼 Previously: Web Dev Intern @ UMedia | PM Intern @ Regulus Web <br>
-  🔍 Seeking <strong>Summer 2025 SWE/ML/Game Dev Internships</strong> <br>
+  🔍 Seeking <strong>Summer 2026 SWE/ML/Game Dev Internships</strong> <br>
   🎮 Specializing in <strong>AI × Game Development</strong> – building intelligent systems that solve real problems <br>
 </p>
 
@@ -19,10 +19,7 @@ I'm at the **intersection of AI and Game Development** – a unique combination 
 ## 💻 What I'm Currently Building
 
 🔧 **[Py-ECM](https://github.com/azya404/Py-ECM)** – Enterprise-grade Python CLI for content lifecycle management  
-🌐 **SyncLess Translate** – Offline-first progressive web app with ML translation *(in progress)*
+🎮 **[UNNAMED GAME]** – Team-based Unity game development project *(6-person interdisciplinary team)*
 
-## 📫 Let's Connect
-
-📧 Email: [haasya@ualberta.ca](mailto:haasya@ualberta.ca)  
-💼 LinkedIn: [linkedin.com/in/haasya-shah](https://linkedin.com/in/haasya-shah)  
-📂 Check out my pinned projects below ⬇️
+I'm always open to collaborations and interesting project ideas—feel free to reach out via [email](mailto:haasya@ualberta.ca) or connect with me on [LinkedIn](https://linkedin.com/in/haasya-shah)!
+You can explore more of my work in the pinned repositories below👇
