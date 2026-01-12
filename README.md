@@ -2,14 +2,16 @@
 
 <p align="center">
   🎓 3rd Year Computing Science Student @ <strong>University of Alberta</strong> <br>
-  💼 Previously: Web Dev Intern @ UMedia | PM Intern @ Regulus Web <br>
+  💼 Currently: Software Engineer Intern @ <strong>Ameerah Live Technology Inc</strong> <br>
+  🕐 Previously: Web Dev Intern @ UMedia | PM Intern @ Regulus Web <br>
   🔍 Seeking <strong>Summer 2026 SWE/ML/Game Dev Internships</strong> <br>
   🎮 Specializing in <strong>AI × Game Development</strong> – building intelligent systems that solve real problems <br>
 </p>
 
-## 🎯 What Makes Me Different
+## What Makes Me Different
 
-I'm at the **intersection of AI and Game Development** – a unique combination that lets me build everything from intelligent NPCs to ML-powered applications.
+I'm at the **intersection of AI and Game Development**, building intelligent systems from NPCs to ML powered applications
+– a unique combination that lets me build everything from intelligent NPCs to ML-powered applications.
 
 **Currently pursuing:** 🎓 [Game Development Certificate](https://calendar.ualberta.ca/preview_program.php?catoid=56&poid=83395) | 🤖 [AI Everywhere Certificate](https://calendar.ualberta.ca/preview_program.php?catoid=56&poid=84365) | 📊 [Applied Data Science Certificate](https://www.ualberta.ca/en/admissions-programs/embedded-undergraduate-certificates/applied-data-science.html)
 
