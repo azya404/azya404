@@ -19,6 +19,7 @@ I'm at the **intersection of AI and Game Development** – a unique combination 
 ## 💻 What I'm Currently Building
 
 🔧 **[Py-ECM](https://github.com/azya404/Py-ECM)** – Enterprise-grade Python CLI for content lifecycle management  
+🎨 **[RayForm](https://github.com/azya404/RayForm)** – C++ ray tracer with modern software practices and test-driven development  
 🎮 **[UNNAMED GAME]** – Team-based Unity game development project *(6-person interdisciplinary team)*
 
 I'm always open to collaborations and interesting project ideas—feel free to reach out via [email](mailto:haasya@ualberta.ca) or connect with me on [LinkedIn](https://linkedin.com/in/haasya-shah)!
