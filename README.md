@@ -5,7 +5,6 @@
   💼 Currently: Software Engineer Intern @ <strong>Ameerah Live Technology Inc</strong> <br>
   🕐 Previously: Web Dev Intern @ UMedia | PM Intern @ Regulus Web <br>
   🔍 Seeking <strong>Summer 2026 SWE/ML/Game Dev Internships</strong> <br>
-  🎮 Specializing in <strong>AI × Game Development</strong> – building intelligent systems that solve real problems <br>
 </p>
 
 ## What Makes Me Different
